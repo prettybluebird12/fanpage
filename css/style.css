@@ -38,9 +38,21 @@ display:flex;
 }
 
 .thumbnail{
-    justify-content:space-around;
+    justify-content:space-between;
+    
+}
+.thumbnail-image{
+    margin:50px;
+    width:100px;
+    height:100px;
 }
 
 .belle{
     width:110%;
+}
+.header{
+ font-family: cursive;
+ color:white;
+ font-size: 30px;
+ 
 }
